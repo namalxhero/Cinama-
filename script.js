@@ -18,7 +18,7 @@ const uploadBtn = document.getElementById("uploadBtn");
 const statusDiv = document.getElementById("status");
 
 // ------------------ Config ------------------
-const ADMIN_EMAIL = "nipunanamal698@gmail.com";
+const ADMIN_EMAIL = "nipunanamal479@gmail.com";
 const BUCKET_ID = "68c821d6000d9fb04a7d"; // Bucket ID
 const GOOGLE_SILENT_CLIENT_ID = "125301807884-tmqm16kkitakltbr3sv44cena89m0cut.apps.googleusercontent.com"; // Silent Client ID
 
